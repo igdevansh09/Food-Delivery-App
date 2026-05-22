@@ -8,7 +8,7 @@ nested navigators, auth flow, params, programmatic navigation, and smooth screen
 
 ## Demo Video
 
-[![FoodDelivery Demo](https://img.youtube.com/vi/LSAfUJ5vWQY/0.jpg)](https://youtu.be/LSAfUJ5vWQY?si=rXI925qamHw4udw5)
+[![FoodDelivery Demo](https://img.youtube.com/vi/LSAfUJ5vWQY/0.jpg)](https://www.youtube.com/watch?v=yvEI0SJoh_E)
 
 > Click the thumbnail above to watch the walkthrough of all navigation flows.
 
